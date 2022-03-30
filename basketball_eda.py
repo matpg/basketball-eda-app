@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import numpy as np
 
-st.set_page_config(page_title="Basketball EDA", page_icon="🏀")
+# st.set_page_config(page_title="Basketball EDA", page_icon="🏀")
 
 st.title('NBA Player Stats Explorer')
 
