@@ -7,7 +7,7 @@ import numpy as np
 
 st.set_page_config(page_title="Basketball EDA", page_icon="🏀")
 
-st.title('NBA Player Stats Explorer')
+st.title('🕵️‍♂️ NBA Player Stats Explorer')
 
 st.markdown("""
 This app performs simple webscraping of NBA player stats data!
